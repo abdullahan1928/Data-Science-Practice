@@ -1,2 +1,3 @@
 Hello World
 This line is edited by github
+This line is added locally
